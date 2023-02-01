@@ -2,6 +2,8 @@
 
 https://product.cnmo.com/all/product.html
 
+https://github.com/zhugezifang/webmagic-collector
+
 手机机型映射
 
 INSERT INTO `` VALUES ('16 X', '魅族16 X');
@@ -2095,4 +2097,3 @@ INSERT INTO `` VALUES ('ZTE C2017', 'ZTE Axon 7 Max');
 INSERT INTO `` VALUES ('ZTE V0840', 'ZTE Blade V8Q');
 INSERT INTO `` VALUES ('ZTE V1050', 'ZTE Blade 20 Smart');
 INSERT INTO `` VALUES ('ZTE V890', '中兴V890');
-
