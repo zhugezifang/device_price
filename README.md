@@ -1,6 +1,7 @@
 手机价格爬虫
 
 https://product.cnmo.com/all/product.html
+https://www.gsmarena.com/
 
 https://github.com/zhugezifang/webmagic-collector
 
